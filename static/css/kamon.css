@@ -1,0 +1,95 @@
+.kamon{margin:0;padding:0;}
+.kamon,.kamon.large{display:block;width:200px;height:200px;min-width:200px;min-height:200px;}
+.kamon.medium{display:block;width:100px;height:100px;min-width:100px;min-height:100px;}
+.kamon.small{display:block;width:50px;height:50px;min-width:50px;min-height:50px;}
+.kamon.tiny{display:block;width:25px;height:25px;min-width:25px;min-height:25px;}
+
+.kamon.asano,
+.kamon.asano.large { background-image: url('./kamon/200x200/asano.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.asano.medium{ background-image: url('./kamon/100x100/asano.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.asano.small { background-image: url('./kamon/50x50/asano.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.asano.tiny  { background-image: url('./kamon/25x25/asano.png'); background-position:top left; background-repeat:no-repeat; }
+    
+.kamon.date,
+.kamon.date.large { background-image: url('./kamon/200x200/date.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.date.medium{ background-image: url('./kamon/100x100/date.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.date.small { background-image: url('./kamon/50x50/date.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.date.tiny  { background-image: url('./kamon/25x25/date.png'); background-position:top left; background-repeat:no-repeat; }
+    
+.kamon.hachisuka,
+.kamon.hachisuka.large { background-image: url('./kamon/200x200/hachisuka.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.hachisuka.medium{ background-image: url('./kamon/100x100/hachisuka.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.hachisuka.small { background-image: url('./kamon/50x50/hachisuka.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.hachisuka.tiny  { background-image: url('./kamon/25x25/hachisuka.png'); background-position:top left; background-repeat:no-repeat; }
+    
+.kamon.hojo,
+.kamon.hojo.large { background-image: url('./kamon/200x200/hojo.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.hojo.medium{ background-image: url('./kamon/100x100/hojo.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.hojo.small { background-image: url('./kamon/50x50/hojo.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.hojo.tiny  { background-image: url('./kamon/25x25/hojo.png'); background-position:top left; background-repeat:no-repeat; }
+    
+.kamon.ii,
+.kamon.ii.large { background-image: url('./kamon/200x200/ii.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.ii.medium{ background-image: url('./kamon/100x100/ii.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.ii.small { background-image: url('./kamon/50x50/ii.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.ii.tiny  { background-image: url('./kamon/25x25/ii.png'); background-position:top left; background-repeat:no-repeat; }
+    
+.kamon.kuroda,
+.kamon.kuroda.large { background-image: url('./kamon/200x200/kuroda.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.kuroda.medium{ background-image: url('./kamon/100x100/kuroda.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.kuroda.small { background-image: url('./kamon/50x50/kuroda.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.kuroda.tiny  { background-image: url('./kamon/25x25/kuroda.png'); background-position:top left; background-repeat:no-repeat; }
+    
+.kamon.maeda,
+.kamon.maeda.large { background-image: url('./kamon/200x200/maeda.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.maeda.medium{ background-image: url('./kamon/100x100/maeda.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.maeda.small { background-image: url('./kamon/50x50/maeda.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.maeda.tiny  { background-image: url('./kamon/25x25/maeda.png'); background-position:top left; background-repeat:no-repeat; }
+    
+.kamon.mori,
+.kamon.mori{ background-image: url('./kamon/200x200/mori.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.mori{ background-image: url('./kamon/100x100/mor.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.mori{ background-image: url('./kamon/50x50/mor.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.mori{ background-image: url('./kamon/25x25/mor.png'); background-position:top left; background-repeat:no-repeat; }
+    
+.kamon.mori_owari,
+.kamon.mori_owari{ background-image: url('./kamon/200x200/mori_owari.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.mori_owari{ background-image: url('./kamon/100x100/mori_owar.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.mori_owari{ background-image: url('./kamon/50x50/mori_owar.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.mori_owari{ background-image: url('./kamon/25x25/mori_owar.png'); background-position:top left; background-repeat:no-repeat; }
+    
+.kamon.nanbu,
+.kamon.nanbu{ background-image: url('./kamon/200x200/nanbu.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.nanbu{ background-image: url('./kamon/100x100/nanb.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.nanbu{ background-image: url('./kamon/50x50/nanb.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.nanbu{ background-image: url('./kamon/25x25/nanb.png'); background-position:top left; background-repeat:no-repeat; }
+    
+.kamon.satake,
+.kamon.satake{ background-image: url('./kamon/200x200/satake.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.satake{ background-image: url('./kamon/100x100/satak.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.satake{ background-image: url('./kamon/50x50/satak.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.satake{ background-image: url('./kamon/25x25/satak.png'); background-position:top left; background-repeat:no-repeat; }
+    
+.kamon.shimazu,
+.kamon.shimazu{ background-image: url('./kamon/200x200/shimazu.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.shimazu{ background-image: url('./kamon/100x100/shimaz.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.shimazu{ background-image: url('./kamon/50x50/shimaz.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.shimazu{ background-image: url('./kamon/25x25/shimaz.png'); background-position:top left; background-repeat:no-repeat; }
+    
+.kamon.taira,
+.kamon.taira{ background-image: url('./kamon/200x200/taira.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.taira{ background-image: url('./kamon/100x100/tair.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.taira{ background-image: url('./kamon/50x50/tair.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.taira{ background-image: url('./kamon/25x25/tair.png'); background-position:top left; background-repeat:no-repeat; }
+    
+.kamon.tokugawa,
+.kamon.tokugawa{ background-image: url('./kamon/200x200/tokugawa.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.tokugawa{ background-image: url('./kamon/100x100/tokugaw.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.tokugawa{ background-image: url('./kamon/50x50/tokugaw.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.tokugawa{ background-image: url('./kamon/25x25/tokugaw.png'); background-position:top left; background-repeat:no-repeat; }
+    
+.kamon.yagyu,
+.kamon.yagyu{ background-image: url('./kamon/200x200/yagyu.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.yagyu{ background-image: url('./kamon/100x100/yagy.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.yagyu{ background-image: url('./kamon/50x50/yagy.png'); background-position:top left; background-repeat:no-repeat; }
+.kamon.yagyu{ background-image: url('./kamon/200x200/yagy.png'); background-position:top left; background-repeat:no-repeat; }        

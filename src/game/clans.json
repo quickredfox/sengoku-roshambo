@@ -1,0 +1,85 @@
+[
+  {
+    "name": "Nanbu",
+    "domain": "Morioka",
+    "canonical":"nanbu"
+  }
+,
+  {
+    "name": "Satake",
+    "domain": "Akita",
+    "canonical":"satake"
+  }
+,
+  {
+    "name": "Date",
+    "domain": "Sendai",
+    "canonical":"date"
+  }
+,
+  {
+    "name": "Maeda",
+    "domain": "Kanazawa",
+    "canonical":"maeda"
+  }
+,
+  {
+    "name": "Ii",
+    "domain": "Hikone",
+    "canonical":"ii"
+  }
+,
+  {
+    "name": "Asano",
+    "domain": "Hiroshima",
+    "canonical":"asano"
+  }
+,
+  {
+    "name": "Mōri",
+    "domain": "Chosu",
+    "canonical":"mori"
+  }
+,
+  {
+    "name": "Hachisuka",
+    "domain": "Tokushima",
+    "canonical":"hachisuka"
+  }
+,
+  {
+    "name": "Kuroda",
+    "domain": "Fukuoka",
+    "canonical":"kuroda"
+  }
+,
+  {
+    "name": "Shimazu",
+    "domain": "Satsuma",
+    "canonical":"shimazu"
+  } 
+,
+  {
+    "name": "Tokugawa",
+    "domain": "Edo",
+    "canonical":"tokugawa"
+  }
+,
+ {
+    "name": "Yagyū",
+    "domain": "Nara",
+    "canonical":"yagyu"
+ }
+,
+ {
+    "name": "Hōjō",
+    "domain": "Izu",
+    "canonical":"hojo"
+ }
+,
+ {
+    "name": "Taira",
+    "domain": "Ise",
+    "canonical":"taira"
+ }
+]
